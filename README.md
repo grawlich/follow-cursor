@@ -121,5 +121,3 @@ I will update this section at a later time with more in-depth examples if folks 
 
 
 Code is MIT licensed
-
-Copyright © 2025 - 2026 [grawlich](https://github.com/grawlich)
