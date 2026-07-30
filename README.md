@@ -29,7 +29,7 @@ Generates an element that automatically follows the mouse cursor around the page
 ### How to use in your own project
 
 
-The code for haveing the element follow the mouse cursor is contained entirely within the Svelte component, minus the demo styles used. All you need to do is simply copy/paste the `FollowCursor.svelte` component into your project, and add a global class to style it! You can add multiple copies if needed and modifying this element is quite simple.
+The code for having the element follow the mouse cursor is contained entirely within the Svelte component, minus the demo styles used. All you need to do is simply copy/paste the `FollowCursor.svelte` component into your project, and add a global class to style it! You can add multiple copies if needed and modifying this element is quite simple.
 
 
 The component only outputs a `<div>` tag and a window event listener to handle detecting mouse movement. It uses native JavaScript APIs to smoothly animate from the current position to the new position, and it even follows the vague curavture of you movements with a long delay.
