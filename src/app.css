@@ -1,0 +1,29 @@
+:root {
+  --bg-1: hsl(203, 100%, 7%);
+  --bg-2: hsl(257, 88%, 3%);
+  --text-1: hsl(200, 35%, 25%);
+  --grad-1: hsl(160, 100%, 62%);
+  --grad-2: hsl(207, 100%, 60%);
+  --grad-3: hsl(271, 100%, 62%);
+  --grad-4: hsl(293, 100%, 62%);
+  --blur: 4rem;
+}
+
+
+body,
+html {
+  width: 100vw;
+  height: 100vh;
+}
+
+
+body {
+  background-image:
+    linear-gradient(
+      in oklch,
+      var(--bg-1),
+      var(--bg-2)
+    )
+  ;
+  overflow: hidden;
+}
