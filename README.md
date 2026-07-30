@@ -14,7 +14,7 @@ This is a small component built using:
 > Due to this being a simple component, no support is provided at this time. Updates will come as I deem necessary, but for the foreseeable future, this is how the component will remain.
 
 
-[Demo](https://cursor-follow.vercel.app/)
+[Demo](https://follow-cursor-six.vercel.app/)
 
 
 ### Purpose:
